@@ -4,8 +4,8 @@
     <name>queuetest</name>
     <queueMembers>
         <users>
-            <user>integration@00de2000008hbdlmao.com</user>
-            <user>apasupuleti@copado.com.sha.dev1-sfp</user>
+            <user>integration@00de1000007pvw1mao.com</user>
+            <user>apasupuleti@copado.com.sha.production-sfp</user>
         </users>
     </queueMembers>
     <queueSobject>
