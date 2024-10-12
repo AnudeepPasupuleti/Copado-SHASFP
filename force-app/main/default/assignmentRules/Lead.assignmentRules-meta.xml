@@ -4,7 +4,7 @@
         <fullName>rule1</fullName>
         <active>true</active>
         <ruleEntry>
-            <assignedTo>queuetest</assignedTo>
+            <assignedTo>queuetest2</assignedTo>
             <assignedToType>Queue</assignedToType>
             <criteriaItems>
                 <field>Lead.AnnualRevenue</field>
