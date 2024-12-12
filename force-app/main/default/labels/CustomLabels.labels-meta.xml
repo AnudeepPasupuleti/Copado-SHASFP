@@ -7,4 +7,11 @@
         <shortDescription>Anudeep</shortDescription>
         <value>Anudeep_test_1</value>
     </labels>
+    <labels>
+        <fullName>test1</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>test1</shortDescription>
+        <value>teast1</value>
+    </labels>
 </CustomLabels>
